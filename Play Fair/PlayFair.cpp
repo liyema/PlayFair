@@ -18,6 +18,7 @@ int main()
 			}
 		}
 	}
+
 	cout << "The new keyword without duplicates is ";
 	for (int i = 0; i < keyword.size(); i++)
 	{
